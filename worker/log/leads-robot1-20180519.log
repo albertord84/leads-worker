@@ -1,0 +1,1072 @@
+Worker-Robot Leads Inited...!<br>
+2018-05-20 01:55:59amRobot1 initialized with robot_profile bertoernesto6505<br>
+<br>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>2.2567</td><td bgcolor='#eeeeec' align='right'>5971616</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>2.2567</td><td bgcolor='#eeeeec' align='right'>5971992</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>2.2567</td><td bgcolor='#eeeeec' align='right'>5971616</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>2.2567</td><td bgcolor='#eeeeec' align='right'>5971992</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>2.2567</td><td bgcolor='#eeeeec' align='right'>5971616</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>2.2567</td><td bgcolor='#eeeeec' align='right'>5971992</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>2.2567</td><td bgcolor='#eeeeec' align='right'>5971616</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>2.2567</td><td bgcolor='#eeeeec' align='right'>5971992</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 1978179531 na tabela leads<br>
+<br>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 5763178086 na tabela leads<br>
+<br>
+ Client ---> a  Campaing --> 3  Profile --> partiusp:  proccess correctly<br><br>
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>23.2734</td><td bgcolor='#eeeeec' align='right'>6040064</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>23.2734</td><td bgcolor='#eeeeec' align='right'>6040440</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>23.2734</td><td bgcolor='#eeeeec' align='right'>6040064</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>23.2734</td><td bgcolor='#eeeeec' align='right'>6040440</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>23.2734</td><td bgcolor='#eeeeec' align='right'>6040064</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>23.2734</td><td bgcolor='#eeeeec' align='right'>6040440</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>23.2734</td><td bgcolor='#eeeeec' align='right'>6040064</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>23.2734</td><td bgcolor='#eeeeec' align='right'>6040440</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>23.2734</td><td bgcolor='#eeeeec' align='right'>6040064</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>23.2734</td><td bgcolor='#eeeeec' align='right'>6040440</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 7472372183 na tabela leads<br>
+<br>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 6903628326 na tabela leads<br>
+<br>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 1995101943 na tabela leads<br>
+<br>
+ Client ---> a  Campaing --> 3  Profile --> peperoni:  proccess correctly<br><br>
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>44.4148</td><td bgcolor='#eeeeec' align='right'>6040104</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>44.4148</td><td bgcolor='#eeeeec' align='right'>6040480</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>44.4148</td><td bgcolor='#eeeeec' align='right'>6040104</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>44.4148</td><td bgcolor='#eeeeec' align='right'>6040480</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>44.4148</td><td bgcolor='#eeeeec' align='right'>6040104</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>44.4148</td><td bgcolor='#eeeeec' align='right'>6040480</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>44.4148</td><td bgcolor='#eeeeec' align='right'>6040104</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>44.4148</td><td bgcolor='#eeeeec' align='right'>6040480</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 52178661 na tabela leads<br>
+<br>
+ Client ---> a  Campaing --> 3  Profile --> partiusp:  proccess correctly<br><br>
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>63.9998</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>63.9998</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>63.9998</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>63.9998</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>63.9998</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>63.9998</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>63.9998</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>63.9998</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>63.9998</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>63.9998</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 3406944678 na tabela leads<br>
+<br>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 7557315337 na tabela leads<br>
+<br>
+ Client ---> a  Campaing --> 3  Profile --> peperoni:  proccess correctly<br><br>
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>77.6487</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>77.6487</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 1492252145 na tabela leads<br>
+<br>
+ Client ---> a  Campaing --> 3  Profile --> partiusp:  proccess correctly<br><br>
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>80.3630</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>80.3630</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>80.3630</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>80.3630</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>80.3630</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>80.3630</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>80.3630</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>80.3630</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>80.3630</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>80.3630</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>80.3630</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>80.3630</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 7353737247 na tabela leads<br>
+<br>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 7547693101 na tabela leads<br>
+<br>
+ Client ---> a  Campaing --> 3  Profile --> peperoni:  proccess correctly<br><br>
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>99.5268</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>99.5268</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>99.5268</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>99.5268</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>99.5268</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>99.5268</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>99.5268</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>99.5268</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 1955745659 na tabela leads<br>
+<br>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 1955745659 na tabela leads<br>
+<br>
+ Client ---> a  Campaing --> 3  Profile --> partiusp:  proccess correctly<br><br>
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>107.6873</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>107.6873</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>107.6873</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>107.6873</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>107.6873</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>107.6873</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>107.6873</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>107.6873</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>107.6873</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>107.6873</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>107.6873</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>107.6873</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 4208137603 na tabela leads<br>
+<br>
+ Client ---> a  Campaing --> 3  Profile --> peperoni:  proccess correctly<br><br>
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>131.0148</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>131.0149</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>131.0148</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>131.0149</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>131.0148</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>131.0149</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 1333791759 na tabela leads<br>
+<br>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 5964060000 na tabela leads<br>
+<br>
+ Client ---> a  Campaing --> 3  Profile --> partiusp:  proccess correctly<br><br>
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>149.4122</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>149.4122</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>149.4122</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>149.4122</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>149.4122</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>149.4122</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>149.4122</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>149.4122</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>149.4122</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>149.4122</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>149.4122</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>149.4122</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 1160184602 na tabela leads<br>
+<br>
+ Client ---> a  Campaing --> 3  Profile --> peperoni:  proccess correctly<br><br>
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>187.3932</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>187.3933</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+ Client ---> a  Campaing --> 3  Profile --> partiusp:  proccess correctly<br><br>
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>191.3129</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>191.3129</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>191.3129</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>191.3129</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>191.3129</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>191.3129</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>191.3129</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>191.3129</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>191.3129</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>191.3129</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 3271095324 na tabela leads<br>
+<br>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 2293923381 na tabela leads<br>
+<br>
+ Client ---> a  Campaing --> 3  Profile --> peperoni:  proccess correctly<br><br>
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>206.3970</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>206.3970</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>206.3970</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>206.3970</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>206.3970</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>206.3970</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>206.3970</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>206.3970</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 233397489 na tabela leads<br>
+<br>
+ Client ---> a  Campaing --> 3  Profile --> partiusp:  proccess correctly<br><br>
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>213.8954</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>213.8955</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>213.8954</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>213.8955</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>213.8954</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>213.8955</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>213.8954</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>213.8955</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 6215866575 na tabela leads<br>
+<br>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 6061257757 na tabela leads<br>
+<br>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 1018120195 na tabela leads<br>
+<br>
+ Client ---> a  Campaing --> 3  Profile --> peperoni:  proccess correctly<br><br>
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>241.1439</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>241.1439</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>241.1439</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>241.1439</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+ Client ---> a  Campaing --> 3  Profile --> partiusp:  proccess correctly<br><br>
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>248.1069</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>248.1070</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>248.1069</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>248.1070</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>248.1069</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>248.1070</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>248.1069</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>248.1070</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>248.1069</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>248.1070</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>248.1069</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>248.1070</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 1160184602 na tabela leads<br>
+<br>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 4183070841 na tabela leads<br>
+<br>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 6731686885 na tabela leads<br>
+<br>
+ Client ---> a  Campaing --> 3  Profile --> peperoni:  proccess correctly<br><br>
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>266.0968</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>266.0968</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>266.0968</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>266.0968</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>266.0968</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>266.0968</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>266.0968</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>266.0968</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>266.0968</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>266.0968</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 4472645733 na tabela leads<br>
+<br>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 5916153316 na tabela leads<br>
+<br>
+ Client ---> a  Campaing --> 3  Profile --> partiusp:  proccess correctly<br><br>
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>281.5324</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>281.5325</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>281.5324</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>281.5325</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>281.5324</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>281.5325</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>281.5324</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>281.5325</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>281.5324</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>281.5325</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 457374758 na tabela leads<br>
+<br>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 7218268822 na tabela leads<br>
+<br>
+ Client ---> a  Campaing --> 3  Profile --> peperoni:  proccess correctly<br><br>
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>298.3450</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>298.3450</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>298.3450</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>298.3450</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>298.3450</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>298.3450</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>298.3450</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>298.3450</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>298.3450</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>298.3450</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 6610899152 na tabela leads<br>
+<br>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 6610899152 na tabela leads<br>
+<br>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 6610899152 na tabela leads<br>
+<br>
+ Client ---> a  Campaing --> 3  Profile --> partiusp:  proccess correctly<br><br>
+
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>314.5684</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>314.5685</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>314.5684</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>314.5685</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>314.5684</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>314.5685</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>314.5684</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>314.5685</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>314.5684</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>314.5685</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Undefined variable: login_data in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>397</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>314.5684</td><td bgcolor='#eeeeec' align='right'>6048256</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>314.5685</td><td bgcolor='#eeeeec' align='right'>6048632</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+</table></font>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 4903453845 na tabela leads<br>
+<br>
+<br>
+<br>
+ ---------->Leads extracted and save successfully from profile 6919092831 na tabela leads<br>
+<br>
+ Client ---> a  Campaing --> 3  Profile --> peperoni:  proccess correctly<br><br>
+
+<pre class='xdebug-var-dump' dir='ltr'>
+<small>/opt/lampp/htdocs/leads/worker/class/Robot.php:442:</small>
+<b>array</b> <i>(size=1)</i>
+  0 <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'{&quot;message&quot;: &quot;rate limited&quot;, &quot;status&quot;: &quot;fail&quot;}'</font> <i>(length=45)</i>
+</pre>curl 'https://www.instagram.com/graphql/query/?query_hash=298b92c8d7cad703f7565aa892ede943&variables=%7B%22tag_name%22%3A%22partiusp%22%2C%22first%22%3A2%2C%22after%22%3A%22AQBMAgPpBwO74xIt3mbkjriD6znd6Lr4Acyko8QlPZoRs_8bz3yCeKhBxx44TMu5WmT12sRgQRs0t28RKtnrMznQLa2L63qbPxbABo1pdzlE7w%22%7D' -H 'Cookie: mid=Wt3trwABAAHizght5Kw56hcfzhHy; sessionid=IGSCd52744b93154332976f3bbfba090641ca4fd996ef1a9a28ccf73b4f291423a23%3ACZLcuIdSsezjP7c7fDPnRxsBginPfVnL%3A%7B%22_auth_user_id%22%3A7549886606%2C%22_auth_user_backend%22%3A%22accounts.backends.CaseInsensitiveModelBackend%22%2C%22_auth_user_hash%22%3A%22%22%2C%22_platform%22%3A1%2C%22_token_ver%22%3A2%2C%22_token%22%3A%227549886606%3AaxbXChs5iwxuXDJVN6oX6K5RPsidAjaK%3A6817d1bfcc14dbfbfb94e0f93ba79d2603211d458cc06209feef1e70e4d5a329%22%2C%22last_refreshed%22%3A1526704304.8522624969%7D; s_network=; ig_pr=1; ig_vw=1855; csrftoken=jLjvHKD9vCX4XrtIaLhfwOOM1QH492hH; ds_user_id=7549886606' -H 'X-CSRFToken: jLjvHKD9vCX4XrtIaLhfwOOM1QH492hH' -H 'Origin: https://www.instagram.com' -H 'Accept-Encoding: gzip, deflate' -H 'Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.6,en;q=0.4' -H 'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0' -H 'X-Requested-with: XMLHttpRequest' -H 'content-type: application/x-www-form-urlencoded' -H 'Accept: */*' -H 'Referer: https://www.instagram.com/' -H 'Authority: www.instagram.com' --compressed <br>n<br>
+ Untrated error!!!<br>
+<br>
+<br />
+<font size='1'><table class='xdebug-error xe-uncaught-exception' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Uncaught Error: Class 'leads\cls\Exception' not found in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>445</i></th></tr>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Error: Class 'leads\cls\Exception' not found in /opt/lampp/htdocs/leads/worker/class/Robot.php on line <i>445</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0002</td><td bgcolor='#eeeeec' align='right'>360984</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0141</td><td bgcolor='#eeeeec' align='right'>2069296</td><td bgcolor='#eeeeec'>leads\cls\Worker->do_work(  )</td><td title='/opt/lampp/htdocs/leads/worker/scripts/all/index-do.php' bgcolor='#eeeeec'>.../index-do.php<b>:</b>18</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>323.9127</td><td bgcolor='#eeeeec' align='right'>6048296</td><td bgcolor='#eeeeec'>leads\cls\Robot->do_robot_extract_leads(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Worker.php' bgcolor='#eeeeec'>.../Worker.php<b>:</b>101</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>323.9127</td><td bgcolor='#eeeeec' align='right'>6048672</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_profiles_from_hastag(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>104</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>5</td><td bgcolor='#eeeeec' align='center'>323.9127</td><td bgcolor='#eeeeec' align='right'>6048752</td><td bgcolor='#eeeeec'>leads\cls\Robot->get_insta_tagmedia(  )</td><td title='/opt/lampp/htdocs/leads/worker/class/Robot.php' bgcolor='#eeeeec'>.../Robot.php<b>:</b>391</td></tr>
+</table></font>
