@@ -32,7 +32,7 @@ namespace leads\cls {
         public $DB;
         
         //--------principal functions--------------
-        function __construct($DB = NULL, $conf_file = "/../../../LEADS.INI") {
+        function __construct($DB = NULL, $conf_file = "/../../../LEADS-WORKER.INI") {
             $config = parse_ini_file(dirname(__FILE__) . $conf_file, true);
             $this->DB = $DB ? $DB : new \leads\cls\DB();
             $this->utils = new \leads\cls\Utils();

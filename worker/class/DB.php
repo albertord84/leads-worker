@@ -13,7 +13,7 @@ namespace leads\cls {
         
         //-------------PRINCIPALS FUNCTIONS------------------------------
 
-        public function __construct($conf_file = "/../../../LEADS.INI") {
+        public function __construct($conf_file = "/../../../LEADS-WORKER.INI") {
             $this->connect($conf_file);
         }
 
