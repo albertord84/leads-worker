@@ -9,7 +9,7 @@ namespace leads\cls {
     ini_set('xdebug.var_display_max_data', 1024);
     
     
-    require_once $_SERVER['DOCUMENT_ROOT'] . '/leads/worker/externals/mundipagg/init.php';
+    require_once $_SERVER['DOCUMENT_ROOT'] . '/leads-worker/worker/externals/mundipagg/init.php';
     require_once 'system_config.php';
 //    require_once('libraries/mundipagg/init.php');
 //    require_once('class/system_config.php');
