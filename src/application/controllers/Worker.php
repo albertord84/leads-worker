@@ -22,7 +22,6 @@ class Worker extends CI_Controller {
         else {
             print "Missing Refence Id...!!!";
         }
-//        var_dump($daily_work);
     }
 
 }
