@@ -10,7 +10,7 @@ namespace leads\cls {
     date_default_timezone_set('Etc/UTC');
 
     //require_once 'libraries/PHPMailer-master/PHPMailerAutoload.php';
-    require_once $_SERVER['DOCUMENT_ROOT'] . '/leads/worker/externals/PHPMailer-master/PHPMailerAutoload.php';
+    require_once $_SERVER['DOCUMENT_ROOT'] . '/leads-worker/worker/externals/PHPMailer-master/PHPMailerAutoload.php';
 
     class Gmail {
 

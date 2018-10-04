@@ -6,9 +6,9 @@ class Gmail extends CI_Controller {
 
     public function send_client_contact_form() {
         require_once $_SERVER['DOCUMENT_ROOT'] . '/leads-worker/worker/class/system_config.php';
-        $GLOBALS['sistem_config'] = new follows\cls\system_config();
+        $GLOBALS['sistem_config'] = new leads\cls\system_config();
         require_once $_SERVER['DOCUMENT_ROOT'] . '/leads-worker/worker/class/Gmail.php';
-        $Gmail = new follows\cls\Gmail();
+        $Gmail = new leads\cls\Gmail();
 
         $username = urldecode($_POST['username']);
         $useremail = urldecode($_POST['useremail']);
@@ -22,9 +22,9 @@ class Gmail extends CI_Controller {
     
     public function send_recovery_pass() {
         require_once $_SERVER['DOCUMENT_ROOT'] . '/leads-worker/worker/class/system_config.php';
-        $GLOBALS['sistem_config'] = new follows\cls\system_config();
+        $GLOBALS['sistem_config'] = new leads\cls\system_config();
         require_once $_SERVER['DOCUMENT_ROOT'] . '/leads-worker/worker/class/Gmail.php';
-        $Gmail = new follows\cls\Gmail();
+        $Gmail = new leads\cls\Gmail();
 
         $useremail = urldecode($_POST['useremail']);
         $username = urldecode($_POST['username']);
@@ -37,9 +37,9 @@ class Gmail extends CI_Controller {
     
     public function send_number_confirm() {
         require_once $_SERVER['DOCUMENT_ROOT'] . '/leads-worker/worker/class/system_config.php';
-        $GLOBALS['sistem_config'] = new follows\cls\system_config();
+        $GLOBALS['sistem_config'] = new leads\cls\system_config();
         require_once $_SERVER['DOCUMENT_ROOT'] . '/leads-worker/worker/class/Gmail.php';
-        $Gmail = new follows\cls\Gmail();
+        $Gmail = new leads\cls\Gmail();
 
         $useremail = urldecode($_POST['useremail']);
         $username = urldecode($_POST['username']);
@@ -52,9 +52,9 @@ class Gmail extends CI_Controller {
     
     public function send_welcome() {
         require_once $_SERVER['DOCUMENT_ROOT'] . '/leads-worker/worker/class/system_config.php';
-        $GLOBALS['sistem_config'] = new follows\cls\system_config();
+        $GLOBALS['sistem_config'] = new leads\cls\system_config();
         require_once $_SERVER['DOCUMENT_ROOT'] . '/leads-worker/worker/class/Gmail.php';
-        $Gmail = new follows\cls\Gmail();
+        $Gmail = new leads\cls\Gmail();
 
         $useremail = urldecode($_POST['useremail']);
         $username = urldecode($_POST['username']);
@@ -66,9 +66,9 @@ class Gmail extends CI_Controller {
     
     public function send_client_cancel_status() {
         require_once $_SERVER['DOCUMENT_ROOT'] . '/leads-worker/worker/class/system_config.php';
-        $GLOBALS['sistem_config'] = new follows\cls\system_config();
+        $GLOBALS['sistem_config'] = new leads\cls\system_config();
         require_once $_SERVER['DOCUMENT_ROOT'] . '/leads-worker/worker/class/Gmail.php';
-        $Gmail = new follows\cls\Gmail();
+        $Gmail = new leads\cls\Gmail();
 
         $useremail = urldecode($_POST['useremail']);
         $username = urldecode($_POST['username']);
@@ -80,9 +80,9 @@ class Gmail extends CI_Controller {
     
     public function send_client_ticket_success() {
         require_once $_SERVER['DOCUMENT_ROOT'] . '/leads-worker/worker/class/system_config.php';
-        $GLOBALS['sistem_config'] = new follows\cls\system_config();
+        $GLOBALS['sistem_config'] = new leads\cls\system_config();
         require_once $_SERVER['DOCUMENT_ROOT'] . '/leads-worker/worker/class/Gmail.php';
-        $Gmail = new follows\cls\Gmail();
+        $Gmail = new leads\cls\Gmail();
 
         $useremail = urldecode($_POST['useremail']);
         $username = urldecode($_POST['username']);

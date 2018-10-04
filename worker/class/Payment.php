@@ -181,6 +181,7 @@ namespace leads\cls {
                 ->setOrderReference($payment_data['OrderReference']);//	string Identificador do pedido na sua base
 
                 // Dados do comprador
+                if(strlen($payment_data['cpf']) == 11){
                 $createSaleRequest->getBuyer()
                 ->setName($payment_data['name'])
                 ->setPersonType(\Gateway\One\DataContract\Enum\PersonTypeEnum::PERSON)
@@ -204,6 +205,33 @@ namespace leads\cls {
                 ->setState($payment_data['state_address'])
                 ->setZipCode($payment_data['cep'])
                 ->setCountry(\Gateway\One\DataContract\Enum\CountryEnum::BRAZIL);
+                }
+                else{
+                //para caso cnpj
+                    $createSaleRequest->getBuyer()
+                ->setName($payment_data['name'])
+                ->setPersonType(\Gateway\One\DataContract\Enum\PersonTypeEnum::COMPANY)
+                ->setBuyerReference($payment_data['id']) // esto seria como el id de un cliente para identificarlo rapidamente
+                ->setDocumentNumber($payment_data['cpf'])
+                ->setDocumentType(\Gateway\One\DataContract\Enum\DocumentTypeEnum::CNPJ)
+                //->setEmail("yptoledoarg@gmail.com")
+                //->setEmailType(\Gateway\One\DataContract\Enum\EmailTypeEnum::PERSONAL)
+                //->setGender(\Gateway\One\DataContract\Enum\GenderEnum::FEMALE)
+                //->setMobilePhone("(21)972596272")
+                //->setBirthDate(\DateTime::createFromFormat('d/m/Y', '20/08/1990'))
+                        
+                ->setCreateDateInMerchant(new \DateTime())
+                ->addAddress()
+                ->setAddressType(\Gateway\One\DataContract\Enum\AddressTypeEnum::COMMERCIAL)
+                ->setStreet($payment_data['street_address'])
+                ->setNumber($payment_data['house_number'])
+               // ->setComplement("30B")
+                ->setDistrict($payment_data['neighborhood_address'])
+                ->setCity($payment_data['municipality_address'])
+                ->setState($payment_data['state_address'])
+                ->setZipCode($payment_data['cep'])
+                ->setCountry(\Gateway\One\DataContract\Enum\CountryEnum::BRAZIL);
+                }
                 
                 // Cria um objeto ApiClient
                 $client = new \Gateway\ApiClient();
